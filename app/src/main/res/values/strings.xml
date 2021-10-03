@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Clinkk</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="namma_clinikk_benefits">Namma Clinikk \nBenefits</string>
+    <string name="clinikk">CLINIKK</string>
+    <string name="buy_discounted_medicines_and_lab_tests_at_the_centre">Buy discounted medicines and lab tests at the centre</string>
+    <string name="access_to_5_modern_centres_across_bangalore">Access to 5 modern centres across Bangalore</string>
+    <string name="get_unlimited_consultations_from_doctors_at_the_centers">Get unlimited consultations from doctors at the centers</string>
+    <string name="find_nearest_clinkk_medical_centre">Find nearest Clinkk\n Medical Centre</string>
+    <string name="per_msg_location">Location Permission is required where user is able to see near by location</string>
+    <string name="per_title_camera">Location Permission</string>
+</resources>

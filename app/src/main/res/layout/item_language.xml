@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/cvCard"
+    app:checkedIcon="@drawable/check_selection"
+    android:checkable="true"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="@dimen/smallMargin"
+    app:cardCornerRadius="@dimen/_10sdp"
+    android:layout_height="@dimen/_40sdp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+            android:text="Text"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="@dimen/smallMargin"
+            android:padding="@dimen/smallPadding"
+            android:id="@+id/tvLanguage"
+            android:textColor="@color/black"/>
+    </RelativeLayout>
+
+</com.google.android.material.card.MaterialCardView>

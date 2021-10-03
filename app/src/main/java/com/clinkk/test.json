@@ -1,0 +1,1184 @@
+{
+  "clinics": [
+    {
+      "id": "5e5795d207cfd346989ccd69",
+      "name": "Bommanhalli",
+      "status": "active",
+      "images": [
+        "https://cdn.clinikk.com/static/pwa_ui/clinics/5e5795d207cfd346989ccd69/2.png",
+        "https://cdn.clinikk.com/static/pwa_ui/clinics/5e5795d207cfd346989ccd69/1.png"
+      ],
+      "timings": [
+        {
+          "day": "monday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "tuesday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "wednesday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "thursday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "friday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "08:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "saturday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        }
+      ],
+      "translations": {
+        "en": {
+          "name": "Namma Clinikk - Bommanahalli",
+          "address": {
+            "line": "No.120/70, Kodichikkanahalli Main Road, Opposite to Mahalakshmi Complex, Kaveri Nagar, Bommanahalli",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": "560068"
+          }
+        },
+        "kn": {
+          "name": "ನಮ್ಮ ಕ್ಲಿನಿಕ್ - ಬೊಮ್ಮನಹಳ್ಳಿ",
+          "address": {
+            "line": "ನಂ .120 / 70, ಕೋಡಿಚಿಕನಹಳ್ಳಿ ಮುಖ್ಯ ರಸ್ತೆ, ಮಹಾಲಕ್ಷ್ಮಿ ಕಾಂಪ್ಲೆಕ್ಸ್ ಎದುರು, ಕಾವೇರಿ ನಗರ, ಬೊಮ್ಮನಹಳ್ಳಿ",
+            "city": "ಬೆಂಗಳೂರು",
+            "state": "ಕರ್ನಾಟಕ",
+            "country": "ಭಾರತ",
+            "zipcode": "560068"
+          }
+        },
+        "hi": {
+          "name": "नम्मा क्लिनिक्क - बोम्मनहल्ली",
+          "address": {
+            "line": "नंबर 120/70, कोडिचिक्कनहल्ली मेन रोड, महालक्ष्मी कॉम्प्लेक्स, कावेरी नगर, बोम्मनहल्ली",
+            "city": "बैंगलोर",
+            "state": "कर्नाटक",
+            "country": "भारत",
+            "zipcode": "560068"
+          }
+        },
+        "ta": {
+          "name": "நம்ம கிளினிக் - பொம்மனஹள்ளி",
+          "address": {
+            "line": "எண் .120 / 70, கொடிச்சிக்கனஹள்ளி மெயின் ரோடு, மகாலட்சுமி வளாகத்திற்கு எதிரே, காவேரி நகர், பொம்மநஹள்ளி",
+            "city": "பெங்களூர்",
+            "state": "கர்நாடகா",
+            "country": "இந்தியா",
+            "zipcode": "560068"
+          }
+        },
+        "te": {
+          "name": "నమ్మా క్లినిక్ - బొమ్మనహల్లి",
+          "address": {
+            "line": "నెం .120 / 70, కొడిచిక్కనహల్లి మెయిన్ రోడ్, మహాలక్ష్మి కాంప్లెక్స్కు ఎదురుగా, కావేరి నగర్, బొమ్మనహళ్లి",
+            "city": "బెంగళూరు",
+            "state": "కర్ణాటక",
+            "country": "భారతదేశం",
+            "zipcode": "560068"
+          }
+        },
+        "ml": {
+          "name": "നമ്മ ക്ലിനിക്ക് - ബൊമ്മനഹള്ളി",
+          "address": {
+            "line": "നം. 120/70, കൊടിച്ചിക്കനഹള്ളി മെയിൻ റോഡ്, മഹാലക്ഷ്മി കോംപ്ലെക്സിന് എതിർവശം, കാവേരി നഗർ, ബൊമ്മനഹള്ളി",
+            "city": "ബാംഗ്ലൂർ",
+            "state": "കർണാടക",
+            "country": "ഇന്ത്യ",
+            "zipcode": "560068"
+          }
+        },
+        "bn": {
+          "name": "নাম্মা ক্লিনিক - বোমনাহল্লি",
+          "address": {
+            "line": "নং .120/70,  কোডিচিকানাহল্লি মেন রোড, মহালক্ষ্মী কমপ্লেক্সের বিপরীতে, কাবেরী নগর, বোমনাহল্লি",
+            "city": "বেঙ্গালুরু",
+            "state": "কর্ণাটক",
+            "country": "ভারত",
+            "zipcode": "560068"
+          }
+        },
+        "gu": {
+          "name": "નમ્મા ક્લિનિક - બોમ્મનહલ્લી",
+          "address": {
+            "line": "નંબર 120/70, કોડીચિક્કનહલ્લી મેન રોડ, મહાલક્ષ્મી કૉમ્પ્લેક્ષની સામે, કાવેરી નગર, બોમ્મનહલ્લી",
+            "city": "બેંગ્લોર",
+            "state": "કર્ણાટક",
+            "country": "ભારત",
+            "zipcode": "560068"
+          }
+        },
+        "mr": {
+          "name": "नम्म क्लिनिक – बोम्मनहळ्ळी",
+          "address": {
+            "line": "क्र.120/70, कोडीचिक्कनहळ्ळी मेन रोड, महालक्ष्मी कॉम्प्लेक्ससमोर, कावेरी नगर, बोम्मनहळ्ळी",
+            "city": "बेंगळूरू",
+            "state": "कर्नाटक",
+            "country": "भारत",
+            "zipcode": "560068"
+          }
+        },
+        "pa": {
+          "name": "ਨੱਮਾ ਕਲਿਨਿੱਕ - ਬੋਮੱਨਾਹੱਲੀ",
+          "address": {
+            "line": "24/1, ਕੋਡੀਚਿੱਕਾਨਹੱਲੀ ਮੇਨ ਰੋਡ, ਮਹਾਲਕਸ਼ਮੀ ਕਾਂਪਲੇਕਸ ਦੇ ਸਾਹਮਣੇ, ਕਾਵੇਰੀ ਨਗਰ, ਬੋਮੱਨਹੱਲੀ",
+            "city": "ਬੈਂਗਲੁਰੂ",
+            "state": "ਕਰਨਾਟਕ",
+            "country": "ਭਾਰਤ",
+            "zipcode": "560068"
+          }
+        },
+        "or": {
+          "name": "ନାମ୍ମା କ୍ଲିନିକ୍କ - ବୋମ୍ମନହଲ୍ଲୀ",
+          "address": {
+            "line": "ନଂ. 120/70, କୋଡିଚିକ୍କନହଲ୍ଲୀ ମେନ୍ ରୋଡ଼, ମହାଲକ୍ଷ୍ମୀ କମ୍ପ୍ଲେକ୍ସର ବିପରୀତ, କାବେରୀ ନଗର, ବୋମ୍ମନହଲ୍ଲୀ",
+            "city": "ବାଙ୍ଗାଲୋର",
+            "state": "କର୍ଣ୍ଣାଟକ",
+            "country": "ଭାରତ",
+            "zipcode": "560068"
+          }
+        }
+      },
+      "address": {
+        "line": "Mahalakshmi Complex, Devarachikkanahalli Main Rd, Kaveri Nagar, Bommanahalli",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "zipcode": "560068",
+        "lon": 77.621799,
+        "lat": 12.8985
+      },
+      "distance": {
+        "from": {
+          "lon": 77.61149770378283,
+          "lat": 12.8974236412815
+        },
+        "value": "1.12",
+        "unit": "km"
+      }
+    },
+    {
+      "id": "5e57946207cfd346989ccd65",
+      "name": "JP Nagar",
+      "status": "active",
+      "images": [
+        "https://cdn.clinikk.com/static/pwa_ui/clinics/5e57946207cfd346989ccd65/1.png",
+        "https://cdn.clinikk.com/static/pwa_ui/clinics/5e57946207cfd346989ccd65/2.png"
+      ],
+      "timings": [
+        {
+          "day": "monday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "tuesday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "wednesday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "thursday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "friday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "08:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "saturday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        }
+      ],
+      "translations": {
+        "en": {
+          "name": "Namma Clinikk - J P Nagar",
+          "address": {
+            "line": "24/1, Astha Lakshmi Layout, Puttenahalli Main Road, Opposite to Ganesha Temple Park, JP Nagar 6th Phase",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": "560078"
+          }
+        },
+        "kn": {
+          "name": "ನಮ್ಮ ಕ್ಲಿನಿಕ್ - ಜೆ ಪಿ ನಗರ",
+          "address": {
+            "line": "24/1, ಅಷ್ಠ ಲಕ್ಷ್ಮಿ ಲೇಔಟ್, ಪುಟ್ಟನಹಳ್ಳಿ ಮುಖ್ಯ ರಸ್ತೆ, ಗಣೇಶ ದೇವಾಲಯ ಉದ್ಯಾನವನದ ಎದುರು, ಜೆ.ಪಿ.ನಗರ 6 ನೇ ಹಂತ",
+            "city": "ಬೆಂಗಳೂರು",
+            "state": "ಕರ್ನಾಟಕ",
+            "country": "ಭಾರತ",
+            "zipcode": "560078"
+          }
+        },
+        "hi": {
+          "name": "नम्मा क्लिनिक्क - जे पी नगर",
+          "address": {
+            "line": "24/1, अष्ठ लक्ष्मी लेआउट, पुट्टनहल्ली मेन रोड, गणेश मंदिर पार्क के सामने, जेपी नगर 6 ठी फेज",
+            "city": "बैंगलोर",
+            "state": "कर्नाटक",
+            "country": "भारत",
+            "zipcode": "560078"
+          }
+        },
+        "ta": {
+          "name": "நம்ம கிளினிக் - ஜே பி நகர்",
+          "address": {
+            "line": "24/1, ஆஸ்தா லட்சுமி லேஅவுட், புட்டெனஹள்ளி மெயின் ரோடு, விநாயகர் கோயில் பூங்காவிற்கு எதிரே, ஜே.பி.நகர் 6 வது கட்டம்",
+            "city": "பெங்களூர்",
+            "state": "கர்நாடகா",
+            "country": "இந்தியா",
+            "zipcode": "560078"
+          }
+        },
+        "te": {
+          "name": "నమ్మా క్లినిక్ - జె పి నగర్",
+          "address": {
+            "line": "24/1, అష్ట లక్ష్మి లేఅవుట్, పుట్టెనహల్లి మెయిన్ రోడ్, గణేశ టెంపుల్ పార్కు ఎదురుగా, జెపి నగర్ 6 వ ఫేస్",
+            "city": "బెంగళూరు",
+            "state": "కర్ణాటక",
+            "country": "భారతదేశం",
+            "zipcode": "560078"
+          }
+        },
+        "ml": {
+          "name": "നമ്മ ക്ലിനിക്ക് - ജെപി നഗർ",
+          "address": {
+            "line": "24/1, അഷ്ടലക്ഷ്മി ലേഔട്ട്, പുത്തെനഹള്ളി മെയിൻ റോഡ്, ഗണേശ ക്ഷേത്ര പാർക്കിന് എതിർ വശം, ജെപി നഗർ സിക്സ്ത് ഫേസ്",
+            "city": "ബാംഗ്ലൂർ",
+            "state": "കർണാടക",
+            "country": "ഇന്ത്യ",
+            "zipcode": "560078"
+          }
+        },
+        "bn": {
+          "name": "নাম্মা ক্লিনিক - জে পি নগর",
+          "address": {
+            "line": "24/1, আস্থা লক্ষ্মী লেআউট, পুট্টেনাহল্লি মেন রোড, গণেশ মন্দির পার্কের বিপরীতে, জে পি নগর 6ষ্ঠ ফেজ",
+            "city": "বেঙ্গালুরু",
+            "state": "কর্ণাটক",
+            "country": "ভারত",
+            "zipcode": "560078"
+          }
+        },
+        "gu": {
+          "name": "નમ્મા ક્લિનિક - જે પી નગર",
+          "address": {
+            "line": "24/1, અષ્ટ લક્ષ્મી લેઆઉટ, પુટ્ટેનહલ્લી મેન રોડ, ગણેશ મંદિર પાર્કની સામે, જે પી નગર છઠ્ઠો ફેઝ",
+            "city": "બેંગ્લોર",
+            "state": "કર્ણાટક",
+            "country": "ભારત",
+            "zipcode": "560078"
+          }
+        },
+        "mr": {
+          "name": "नम्म क्लिनिक – जे पी नगर",
+          "address": {
+            "line": "24/1, आस्था लक्ष्मी लेआऊट, पुट्टेनहळ्ळी मेन रोड, गणेश टेम्पल पार्कसमोर, जे पी नगर, 6वी फेज",
+            "city": "बेंगळूरू",
+            "state": "कर्नाटक",
+            "country": "भारत",
+            "zipcode": "560078"
+          }
+        },
+        "pa": {
+          "name": "ਨੱਮਾ ਕਲਿਨਿੱਕ - ਜੇ ਪੀ ਨਗਰ",
+          "address": {
+            "line": "24/1, ਆਸਥਾ ਲਕਸ਼ਮੀ ਲੇਆਉਟ, ਪੁੱਟੇਨਾਹਾਲੀ ਮੇਨ ਰੋਡ, ਗਣੇਸ਼ ਮੰਦਰ ਪਾਰਕ ਦੇ ਸਾਹਮਣੇ, ਜੇ ਪੀ ਨਗਰ 6ਵਾਂ ਫੇਜ਼",
+            "city": "ਬੈਂਗਲੁਰੂ",
+            "state": "ਕਰਨਾਟਕ",
+            "country": "ਭਾਰਤ",
+            "zipcode": "560078"
+          }
+        },
+        "or": {
+          "name": "ନାମ୍ମା କ୍ଲିନିକ୍କ – ଜେ ପି ନଗର",
+          "address": {
+            "line": "24/1, ଆସ୍ଥା ଲକ୍ଷ୍ମୀ ଲେଆଉଟ୍, ପୁଟ୍ଟେନହଲ୍ଲୀ ମେନ୍ ରୋଡ଼, ଗଣେଶ ମନ୍ଦିର ପାର୍କର ବିପରୀତ, ଜେପି ନଗର 6ଷ୍ଠ ଫେଜ୍",
+            "city": "ବାଙ୍ଗାଲୋର",
+            "state": "କର୍ଣ୍ଣାଟକ",
+            "country": "ଭାରତ",
+            "zipcode": "560078"
+          }
+        }
+      },
+      "address": {
+        "line": "24/1, Ashta Laxmi Layout, Puttanahalli, 22nd Main Rd, JP Nagar 6th Phase",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "zipcode": "560078",
+        "lon": 77.582456,
+        "lat": 12.901631
+      },
+      "distance": {
+        "from": {
+          "lon": 77.61149770378283,
+          "lat": 12.8974236412815
+        },
+        "value": "3.19",
+        "unit": "km"
+      }
+    },
+    {
+      "id": "5e5795a107cfd346989ccd68",
+      "name": "Chamrajpet",
+      "status": "active",
+      "images": [
+        "https://cdn.clinikk.com/static/pwa_ui/clinics/5e5795a107cfd346989ccd68/1.png",
+        "https://cdn.clinikk.com/static/pwa_ui/clinics/5e5795a107cfd346989ccd68/2.png"
+      ],
+      "timings": [
+        {
+          "day": "monday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "tuesday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "wednesday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "thursday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "friday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "08:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "saturday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        }
+      ],
+      "translations": {
+        "en": {
+          "name": "Namma Clinikk - Chamrajpet",
+          "address": {
+            "line": "No. 169/1, 9th cross, 1st main Road, Near Mysore Circle, Chamrajpet",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": "560018"
+          }
+        },
+        "kn": {
+          "name": "ನಮ್ಮ ಕ್ಲಿನಿಕ್ - ಚಾಮರಾಜ್ಪೇಟೆ",
+          "address": {
+            "line": "ಇಲ್ಲ. 169/1, 9 ನೇ ಕ್ರಾಸ್, 1 ನೇ ಮುಖ್ಯ ರಸ್ತೆ, ಮೈಸೂರು ವೃತ್ತದ ಹತ್ತಿರ, ಚಾಮರಾಜ್ಪೇಟೆ",
+            "city": "ಬೆಂಗಳೂರು",
+            "state": "ಕರ್ನಾಟಕ",
+            "country": "ಭಾರತ",
+            "zipcode": "560018"
+          }
+        },
+        "hi": {
+          "name": "नम्मा क्लिनिक्क - चामराजपेट",
+          "address": {
+            "line": "नंबर. 169/1, 9 वीं क्रॉस, पहली मुख्य सड़क, मैसूर सर्कल के पास, चामराजपेट",
+            "city": "बैंगलोर",
+            "state": "कर्नाटक",
+            "country": "भारत",
+            "zipcode": "560018"
+          }
+        },
+        "ta": {
+          "name": "நம்ம கிளினிக் - சாம்ராஜ்பேட்டை",
+          "address": {
+            "line": "எண் 169/1, 9 வது குறுக்கு, 1 வது பிரதான சாலை, மைசூர் வட்டம் அருகே, சாம்ராஜ்பேட்டை",
+            "city": "பெங்களூர்",
+            "state": "கர்நாடகா",
+            "country": "இந்தியா",
+            "zipcode": "560018"
+          }
+        },
+        "te": {
+          "name": "నమ్మా క్లినిక్ - చమరాజ్పేట",
+          "address": {
+            "line": "నెం 169/1, 9 వ క్రాస్, 1 వ మెయిన్ రోడ్, మైసూర్ సర్కిల్ దగ్గర, చమరాజ్పేట",
+            "city": "బెంగళూరు",
+            "state": "కర్ణాటక",
+            "country": "భారతదేశం",
+            "zipcode": "560018"
+          }
+        },
+        "ml": {
+          "name": "നമ്മ ക്ലിനിക്ക് - ചാമരാജ്പ്പെട്ട്",
+          "address": {
+            "line": "നം. 169/1, ക്രോസ് 9, ഫസ്റ്റ് മെയിൻ റോഡ്, മൈസൂർ സർക്കിളിന് സമീപം, ചാമരാജ്പ്പെട്ട്",
+            "city": "ബാംഗ്ലൂർ",
+            "state": "കർണാടക",
+            "country": "ഇന്ത്യ",
+            "zipcode": "560018"
+          }
+        },
+        "bn": {
+          "name": "নাম্মা ক্লিনিক - চামরাজেট",
+          "address": {
+            "line": "নং 169/1, 9 ম ক্রস, 1 ম মেন রোড, মাইসুর সার্কেলের নিকটে, চামরাজপেট",
+            "city": "বেঙ্গালুরু",
+            "state": "কর্ণাটক",
+            "country": "ভারত",
+            "zipcode": "560018"
+          }
+        },
+        "gu": {
+          "name": "નમ્મા ક્લિનિક - ચામરાજપેટ",
+          "address": {
+            "line": "નંબર 169/1, 9મો ક્રોસ, પહેલો મેન રોડ, મૈસૂર સર્કલની નજીક, ચામરાજપેટ",
+            "city": "બેંગ્લોર",
+            "state": "કર્ણાટક",
+            "country": "ભારત",
+            "zipcode": "560018"
+          }
+        },
+        "mr": {
+          "name": "नम्म क्लिनिक – चामराजपेठ",
+          "address": {
+            "line": "क्र. 169/1, 9वा क्रॉस, 1ला मेन रोड, म्हैसूर सर्कलजवळ, चामराजपेठ",
+            "city": "बेंगळूरू",
+            "state": "कर्नाटक",
+            "country": "भारत",
+            "zipcode": "560018"
+          }
+        },
+        "pa": {
+          "name": "ਨੱਮਾ ਕਲਿਨਿੱਕ - ਚਮਰਾਜਪੇਟ",
+          "address": {
+            "line": "ਨੰ. 169/1, 9ਵਾਂ ਕ੍ਰਾਸ, ਪਹਿਲੀ ਮੇਨ ਰੋਡ, ਮੈਸੂਰ ਸਰਕਲ ਦੇ ਨੇੜੇ, ਚਮਰਾਜਪੇਟ",
+            "city": "ਬੈਂਗਲੁਰੂ",
+            "state": "ਕਰਨਾਟਕ",
+            "country": "ਭਾਰਤ",
+            "zipcode": "560018"
+          }
+        },
+        "or": {
+          "name": "ନାମ୍ମା କ୍ଲିନିକ୍କ - ଚମରାଜପେଟ",
+          "address": {
+            "line": "ନଂ. 169/1, 9ମ କ୍ରସ, 1ମ ମେନ୍ ରୋଡ଼, ମୈସୁର ସର୍କଲ୍ ନିକଟ, ଚମରାଜପେଟ",
+            "city": "ବାଙ୍ଗାଲୋର",
+            "state": "କର୍ଣ୍ଣାଟକ",
+            "country": "ଭାରତ",
+            "zipcode": "560018"
+          }
+        }
+      },
+      "address": {
+        "line": "169/4, 169/4, Albert Victor Rd, Chamrajpet",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "zipcode": "560018",
+        "lon": 77.559312,
+        "lat": 12.960427
+      },
+      "distance": {
+        "from": {
+          "lon": 77.61149770378283,
+          "lat": 12.8974236412815
+        },
+        "value": "9.01",
+        "unit": "km"
+      }
+    },
+    {
+      "id": "5e57956c07cfd346989ccd67",
+      "name": "Malleshwaram",
+      "status": "active",
+      "images": [
+        "https://cdn.clinikk.com/static/pwa_ui/clinics/5e57956c07cfd346989ccd67/1.png",
+        "https://cdn.clinikk.com/static/pwa_ui/clinics/5e57956c07cfd346989ccd67/2.png"
+      ],
+      "timings": [
+        {
+          "day": "monday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "tuesday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "wednesday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "thursday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "friday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "08:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "saturday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        }
+      ],
+      "translations": {
+        "en": {
+          "name": "Namma Clinikk - Malleshwaram",
+          "address": {
+            "line": "17/2, 1st Main Road / Railway Parallel Road, Maruthi Extension, Opposite Malleswaram Railway Station, Malleswaram",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": "560068"
+          }
+        },
+        "kn": {
+          "name": "ನಮ್ಮ ಕ್ಲಿನಿಕ್ - ಮಲ್ಲೇಶ್ವರಂ",
+          "address": {
+            "line": "17/2, 1 ನೇ ಮುಖ್ಯ ರಸ್ತೆ / ರೈಲ್ವೆ ಸಮಾನಾಂತರ ರಸ್ತೆ, ಮಾರುತಿ ಎಕ್ಸಟೆನ್ಶನ್, ಮಲ್ಲೇಶ್ವರಂ ರೈಲ್ವೆ ನಿಲ್ದಾಣ ಎದುರು, ಮಲ್ಲೇಶ್ವರಂ",
+            "city": "ಬೆಂಗಳೂರು",
+            "state": "ಕರ್ನಾಟಕ",
+            "country": "ಭಾರತ",
+            "zipcode": "560068"
+          }
+        },
+        "hi": {
+          "name": "नम्मा क्लिनिक्क - मल्लेश्वरम",
+          "address": {
+            "line": "17/2, प्रथम मुख्य सड़क / रेलवे समानांतर रोड, मारुति एक्सटेंशन, मल्लेस्वरम रेलवे स्टेशन, मल्लेस्वरम",
+            "city": "बैंगलोर",
+            "state": "कर्नाटक",
+            "country": "भारत",
+            "zipcode": "560068"
+          }
+        },
+        "ta": {
+          "name": "நம்ம கிளினிக் - மல்லேஸ்வரம்",
+          "address": {
+            "line": "17/2, 1 வது பிரதான சாலை / ரயில்வே இணையான சாலை, மாருதி விரிவாக்கம், மல்லேஸ்வரம் ரயில் நிலையத்திற்கு எதிரே, மல்லேஸ்வரம்",
+            "city": "பெங்களூர்",
+            "state": "கர்நாடகா",
+            "country": "இந்தியா",
+            "zipcode": "560068"
+          }
+        },
+        "te": {
+          "name": "నమ్మా క్లినిక్ - మల్లేశ్వరం",
+          "address": {
+            "line": "17/2, 1 వ మెయిన్ రోడ్ / రైల్వే ప్యారలల్ రోడ్, మారుతి ఎక్స్టెన్షన్, మల్లేశ్వరం రైల్వే స్టేషన్ ఎదురుగా, మల్లేశ్వరం",
+            "city": "బెంగళూరు",
+            "state": "కర్ణాటక",
+            "country": "భారతదేశం",
+            "zipcode": "560068"
+          }
+        },
+        "ml": {
+          "name": "നമ്മ ക്ലിനിക്ക് - മല്ലേശ്വരം",
+          "address": {
+            "line": "17/2, ഫസ്റ്റ് മെയിൻ റോഡ്/റെയിൽവേ പാരലൽ റോഡ്, മാരുതി എക്സ്റ്റൻഷൻ, മല്ലേശ്വരം റെയിൽവേസ്റ്റേഷൻ എതിർവശം, മല്ലേശ്വരം",
+            "city": "ബാംഗ്ലൂർ",
+            "state": "കർണാടക",
+            "country": "ഇന്ത്യ",
+            "zipcode": "560068"
+          }
+        },
+        "bn": {
+          "name": "নাম্মা ক্লিনিক - মল্লেশ্বরম",
+          "address": {
+            "line": "17/2, 1ম মেন রোড / রেলওয়ে সমান্তরাল রোড, মারুঠি এক্সটেনশন, মল্লেশ্বরম রেলওয়ে স্টেশন এর বিপরীতে, মল্লেশ্বরম",
+            "city": "বেঙ্গালুরু",
+            "state": "কর্ণাটক",
+            "country": "ভারত",
+            "zipcode": "560068"
+          }
+        },
+        "gu": {
+          "name": "નમ્મા ક્લિનિક - મલ્લેશ્વરમ",
+          "address": {
+            "line": "17/2, 1લો મેન રોડ/ રેલ્વેને સમાંતર રોડ, મારુતિ એક્સ્ટેન્શન, મલ્લેશ્વરમ રેલ્વે સ્ટેશનની સામે, મલ્લેશ્વરમ",
+            "city": "બેંગ્લોર",
+            "state": "કર્ણાટક",
+            "country": "ભારત",
+            "zipcode": "560068"
+          }
+        },
+        "mr": {
+          "name": "नम्म क्लिनिक – मल्लेश्वरम",
+          "address": {
+            "line": "17/2, 1ला मेन रोड / रेल्वे पॅरलल रोड,  मारुती एक्स्टेन्शन, मल्लेश्वरम रेल्वे स्टेशनसमोर, मल्लेश्वरम",
+            "city": "बेंगळूरू",
+            "state": "कर्नाटक",
+            "country": "भारत",
+            "zipcode": "560068"
+          }
+        },
+        "pa": {
+          "name": "ਨੱਮਾ ਕਲਿਨਿੱਕ - ਮੱਲੇਸ਼ਵਰਮ",
+          "address": {
+            "line": "17/2, ਪਹਿਲੀ ਮੇਨ ਰੋਡ/ਰੇਲਵੇ ਪੈਰਲਲ ਰੋਡ, ਮਾਰੂਤੀ ਐਕਸਟੇਨਸ਼ਨ, ਮੱਲੇਸ਼ਵਰਮ ਰੇਲਵੇ ਸਟੇਸ਼ਨ ਦੇ ਸਾਹਮਣੇ, ਮੱਲੇਸ਼ਵਰਮ",
+            "city": "ਬੈਂਗਲੁਰੂ",
+            "state": "ਕਰਨਾਟਕ",
+            "country": "ਭਾਰਤ",
+            "zipcode": "560068"
+          }
+        },
+        "or": {
+          "name": "ନାମ୍ମା କ୍ଲିନିକ୍କ – ମଲେଶ୍ୱରମ୍",
+          "address": {
+            "line": "17/2, ପ୍ରଥମ ମେନ୍ ରୋଡ଼ / ରେଲୱେ ପାରଲାଲ୍ ରୋଡ଼, ମାରୁଥୀ ଏକ୍ସଟେନସନ୍, ମଲେଶ୍ୱରମ୍ ରେଳ ଷ୍ଟେସନ ବିପରୀତ, ମଲେଶ୍ୱରମ୍",
+            "city": "ବାଙ୍ଗାଲୋର",
+            "state": "କର୍ଣ୍ଣାଟକ",
+            "country": "ଭାରତ",
+            "zipcode": "560068"
+          }
+        }
+      },
+      "address": {
+        "line": "17, 1st Main Rd, Rajajinagar",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "zipcode": "560021",
+        "lon": 77.563135,
+        "lat": 13.000789
+      },
+      "distance": {
+        "from": {
+          "lon": 77.61149770378283,
+          "lat": 12.8974236412815
+        },
+        "value": "12.65",
+        "unit": "km"
+      }
+    },
+    {
+      "id": "5e5794cd07cfd346989ccd66",
+      "name": "Peenya",
+      "status": "active",
+      "images": [
+        "https://cdn.clinikk.com/static/pwa_ui/clinics/5e5794cd07cfd346989ccd66/1.png",
+        "https://cdn.clinikk.com/static/pwa_ui/clinics/5e5794cd07cfd346989ccd66/2.png"
+      ],
+      "timings": [
+        {
+          "day": "monday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "tuesday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "wednesday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "thursday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "friday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "08:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        },
+        {
+          "day": "saturday",
+          "status": "open",
+          "shifts": [
+            {
+              "name": "morning",
+              "opening_time": "09:30 AM",
+              "closing_time": "01:00 PM"
+            },
+            {
+              "name": "evening",
+              "opening_time": "04:00 PM",
+              "closing_time": "08:00 PM"
+            }
+          ]
+        }
+      ],
+      "translations": {
+        "en": {
+          "name": "Namma Clinikk - Peenya",
+          "address": {
+            "line": "No.113, Andrahalli Main Road, Rameshwara Layout, Near to Anupama school, Peenya 2nd Stage",
+            "city": "Bangalore",
+            "state": "Karnataka",
+            "country": "India",
+            "zipcode": "560091"
+          }
+        },
+        "kn": {
+          "name": "ನಮ್ಮ ಕ್ಲಿನಿಕ್ - ಪೀನ್ಯಾ",
+          "address": {
+            "line": "ನಂ .113, ಅಂದ್ರಹಳ್ಳಿ ಮುಖ್ಯ ರಸ್ತೆ, ರಾಮೇಶ್ವರ ಲೇಔಟ್, ಅನುಪಮಾ ಶಾಲೆಯ ಹತ್ತಿರ, ಪೀನ್ಯ 2 ನೇ ಹಂತ",
+            "city": "ಬೆಂಗಳೂರು",
+            "state": "ಕರ್ನಾಟಕ",
+            "country": "ಭಾರತ",
+            "zipcode": "560091"
+          }
+        },
+        "hi": {
+          "name": "नम्मा क्लिनिक्क - पीन्या",
+          "address": {
+            "line": "नंबर 113, अंद्राहल्ली मेन रोड, रामेश्वर लेआउट, अनुपमा स्कूल के पास, पीन्या दूसरी स्टेज",
+            "city": "बैंगलोर",
+            "state": "कर्नाटक",
+            "country": "भारत",
+            "zipcode": "560091"
+          }
+        },
+        "ta": {
+          "name": "நம்ம கிளினிக் - பீன்யா",
+          "address": {
+            "line": "எண் .113, ஆண்ட்ரஹள்ளி மெயின் ரோடு, ராமேஸ்வர லேஅவுட், அனுபமா பள்ளிக்கு அருகில், பீன்யா 2 வது நிலை",
+            "city": "பெங்களூர்",
+            "state": "கர்நாடகா",
+            "country": "இந்தியா",
+            "zipcode": "560091"
+          }
+        },
+        "te": {
+          "name": "నమ్మా క్లినిక్ - పీన్య",
+          "address": {
+            "line": "నెం .113, ఆంధ్రహల్లి మెయిన్ రోడ్, రామేశ్వర లేఅవుట్, అనుపమ పాఠశాల సమీపంలో, పీన్య 2 వ స్టేజ్",
+            "city": "బెంగళూరు",
+            "state": "కర్ణాటక",
+            "country": "భారతదేశం",
+            "zipcode": "560091"
+          }
+        },
+        "ml": {
+          "name": "നമ്മ ക്ലിനിക്ക് - പീന്യ",
+          "address": {
+            "line": "നം. 113, അന്ദ്രഹള്ളി മെയിൻ റോഡ്, രാമേശ്വര ലേഔട്ട്, അനുപമ സ്കൂളിന് സമീപം, പീന്യ സെക്കൻഡ് സ്റ്റേജ്",
+            "city": "ബാംഗ്ലൂർ",
+            "state": "കർണാടക",
+            "country": "ഇന്ത്യ",
+            "zipcode": "560091"
+          }
+        },
+        "bn": {
+          "name": "নাম্মা ক্লিনিক - পিনিয়া",
+          "address": {
+            "line": "নং 113, অন্ধ্রহল্লি মেন রোড, রামেশ্বর লেআউট, অনুপমা স্কুলের নিকটবর্তী, পিনিয়া 2য় স্টেজ",
+            "city": "বেঙ্গালুরু",
+            "state": "কর্ণাটক",
+            "country": "ভারত",
+            "zipcode": "560091"
+          }
+        },
+        "gu": {
+          "name": "નમ્મા ક્લિનિક - પીન્યા",
+          "address": {
+            "line": "નંબર 113, અંદ્રાહલ્લી મેન રોડ, રામેશ્વર લેઆઉટ, અનુપમા સ્કૂલની નજીક, પીન્યા બીજું સ્ટેજ",
+            "city": "બેંગ્લોર",
+            "state": "કર્ણાટક",
+            "country": "ભારત",
+            "zipcode": "560091"
+          }
+        },
+        "mr": {
+          "name": "नम्म क्लिनिक - पीन्या",
+          "address": {
+            "line": "क्र.113, अंद्रहळ्ळी मेन रोड, रामेश्वर लेआऊट, अनुपमा शाळेजवळ, पीन्या दुसरी स्टेज",
+            "city": "बेंगळूरू",
+            "state": "कर्नाटक",
+            "country": "भारत",
+            "zipcode": "560091"
+          }
+        },
+        "pa": {
+          "name": "ਨੱਮਾ ਕਲਿਨਿੱਕ - ਪੀਨਯਾ",
+          "address": {
+            "line": "ਨੰ.113, ਅੰਧਰਾਹਲੀ ਮੇਨ ਰੋਡ, ਰਾਮੇਸ਼ਵਰ ਲੇਆਉਟ, ਅਨੁਪਮਾ ਸਕੂਲ ਦੇ ਨੇੜੇ, ਪੀਨਯਾ ਦੂਜਾ ਸਟੇਜ਼",
+            "city": "ਬੈਂਗਲੁਰੂ",
+            "state": "ਕਰਨਾਟਕ",
+            "country": "ਭਾਰਤ",
+            "zipcode": "560091"
+          }
+        },
+        "or": {
+          "name": "ନାମ୍ମା କ୍ଲିନିକ୍କ - ପିନିଆ",
+          "address": {
+            "line": "ନଂ.113, ଅନ୍ଦ୍ରାହଲ୍ଲୀ ମେନ୍‍‍ ରୋଡ଼, ରାମେଶ୍ୱର ଲେଆଉଟ୍, ଅନୁପମା ସ୍କୁଲ୍ ନିକଟ, ପିନିଆ 2ୟ ଷ୍ଟେଜ୍",
+            "city": "ବାଙ୍ଗାଲୋର",
+            "state": "କର୍ଣ୍ଣାଟକ",
+            "country": "ଭାରତ",
+            "zipcode": "560091"
+          }
+        }
+      },
+      "address": {
+        "line": "ramaiha street andralli main road peenya 2nd stage",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India",
+        "zipcode": "560058",
+        "lon": 77.495642,
+        "lat": 13.010467
+      },
+      "distance": {
+        "from": {
+          "lon": 77.61149770378283,
+          "lat": 12.8974236412815
+        },
+        "value": "17.79",
+        "unit": "km"
+      }
+    }
+  ]
+}

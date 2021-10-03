@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_navigation"
+    app:startDestination="@id/permissionFragment">
+
+    <fragment
+        android:id="@+id/permissionFragment"
+        tools:layout="@layout/fragment_permission"
+        android:name="com.clinkk.askPermission.AskPermissionFragment"
+        android:label="PermissionFragment" >
+        <action
+            android:id="@+id/action_permissionFragment_to_selectLanguageFragment"
+            app:destination="@id/selectLanguageFragment" />
+        <action
+            android:id="@+id/action_permissionFragment_to_listFragment"
+            app:destination="@id/listFragment" />
+    </fragment>
+    <fragment
+        tools:layout="@layout/fragment_select_languge"
+        android:id="@+id/selectLanguageFragment"
+        android:name="com.clinkk.language.SelectLanguageFragment"
+        android:label="SelectLanguageFragment" />
+    <fragment
+        android:id="@+id/listFragment"
+        android:name="com.clinkk.viewHospitals.ListFragment"
+        android:label="fragment_list"
+        tools:layout="@layout/fragment_list" />
+</navigation>
