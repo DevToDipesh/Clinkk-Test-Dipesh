@@ -60,7 +60,7 @@ class ListFragment : Fragment() {
             val lm = requireActivity().getSystemService(Context.LOCATION_SERVICE) as LocationManager?
             val location = lm!!.getLastKnownLocation(LocationManager.GPS_PROVIDER)
 
-            if (viewModel.isLocationEnabled(requireContext()) == true) {
+            if (viewModel.isLocationEnabled(requireContext()) == true  && location!=null) {
                 viewModel.searchHospitalWithLocation(
                     long = location?.longitude.toString(),
                     lat = location?.latitude.toString(),
@@ -78,9 +78,12 @@ class ListFragment : Fragment() {
     private fun registerUpdates() {
 
         viewModel.list.observe(viewLifecycleOwner) {
-            list.addAll(it)
-            adapter.notifyDataSetChanged()
-            if (it.isNullOrEmpty()) vNoData.visibility=View.VISIBLE else vNoData.visibility=View.GONE
+            try {
+                list.addAll(it)
+                adapter.notifyDataSetChanged()
+                if (it.isNullOrEmpty()) vNoData.visibility=View.VISIBLE else vNoData.visibility=View.GONE
+            } catch (e: Exception) {
+            }
 
         }
         viewModel.loading.observe(viewLifecycleOwner) {
